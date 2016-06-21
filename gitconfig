@@ -1,0 +1,9 @@
+git config -- global user.name "nome sobrenome" = configuração de nome
+
+git config -- global user.email usuario@exemplo.com = configuração de email
+
+git config --global core.editor nomeeditor = configuração de editor de texto
+
+git config --list = lista configurações efetuadas
+
+git config --help = lista de ajuda
