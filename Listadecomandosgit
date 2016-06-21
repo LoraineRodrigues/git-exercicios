@@ -1,0 +1,40 @@
+git config -- global user.name "nome sobrenome" 
+
+git config -- global user.email usuario@exemplo.com 
+
+git config --global core.editor nomeeditor 
+
+git config --list 
+
+git config --help  
+
+mkdir pastanome 
+
+ls 
+
+cd 
+
+rm -R pastanome 
+
+git init 
+
+git clone 
+
+touch 
+
+git status 
+
+git commit 
+
+git reset HEAD 
+
+git chekout 
+
+git log 
+
+git diff 
+
+git add 
+
+git push
+
